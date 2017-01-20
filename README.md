@@ -1,6 +1,5 @@
 PLAMS
 =====
-ooooooooooooo
 
 Python Library for Automating Molecular Simulation
 ------------------------------------------------------
